@@ -19,7 +19,7 @@
 ### 安装
 
 ```go
-import "dev.aminer.cn/rongbinyuan/zkit/zbatch/v1/zbatch"
+import "github.com/RunForLove9/zbatch/v1/zbatch"
 ```
 
 ### 基本用法
@@ -71,7 +71,7 @@ func (q *UserQuery) SplitResults(ctx context.Context, results []User) map[int][]
 import (
     "context"
     "time"
-    "dev.aminer.cn/rongbinyuan/zkit/zbatch/v1/zbatch"
+    "github.com/RunForLove9/zbatch/v1/zbatch"
 )
 
 func main() {

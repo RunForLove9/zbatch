@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/rongbinyuan/zbatch/v1/zbatch"
+	"github.com/RunForLove9/zbatch/v1/zbatch"
 )
 
 // NewDefaultBatchQuery new a default batch query (results is the same as keys)

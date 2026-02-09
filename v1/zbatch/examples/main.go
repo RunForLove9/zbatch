@@ -10,7 +10,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/rongbinyuan/zbatch/v1/zbatch"
+	"github.com/RunForLove9/zbatch/v1/zbatch"
 )
 
 // User represents a user entity

@@ -1,4 +1,4 @@
-module github.com/rongbinyuan/zbatch
+module github.com/RunForLove9/zbatch
 
 go 1.22.0
 
